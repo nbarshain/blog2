@@ -1,4 +1,4 @@
 <h1>Hello, Rails!</h1>
 <%= link_to 'Articles Home', controller: 'articles' %><br>
 <%= link_to 'New Article', new_article_path %> <br>
-<%= link_to 'Home', ['home'] %>
+<%= link_to 'Home', controller: 'welcome', action: 'home' %>
