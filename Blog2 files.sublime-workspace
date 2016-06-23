@@ -519,110 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app/views/articles/new.html.erb",
-			"settings":
-			{
-				"buffer_size": 144,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/welcome/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 129,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/articles/index.html.erb",
-			"settings":
-			{
-				"buffer_size": 617,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/articles/show.html.erb",
-			"settings":
-			{
-				"buffer_size": 748,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/articles/_form.html.erb",
-			"settings":
-			{
-				"buffer_size": 615,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/comments/_form.html.erb",
-			"settings":
-			{
-				"buffer_size": 898,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/views/comments/_comment.html.erb",
-			"settings":
-			{
-				"buffer_size": 347,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/models/article.rb",
-			"settings":
-			{
-				"buffer_size": 173,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/models/comment.rb",
-			"settings":
-			{
-				"buffer_size": 93,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/articles_controller.rb",
-			"settings":
-			{
-				"buffer_size": 824,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/controllers/comments_controller.rb",
-			"settings":
-			{
-				"buffer_size": 1129,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/routes.rb",
-			"settings":
-			{
-				"buffer_size": 1800,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/views/articles/edit.html.erb",
-			"settings":
-			{
-				"buffer_size": 155,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -652,23 +548,53 @@
 	},
 	"file_history":
 	[
-		"/C/Sites/sample_app_rails_4-master/Gemfile",
-		"/C/Sites/blog2/app/views/articles/_form.html.erb",
-		"/C/Sites/blog2/app/views/articles/show.html.erb",
-		"/C/Sites/blog2/app/views/articles/index.html.erb",
-		"/C/Sites/blog2/app/views/welcome/index.html.erb",
-		"/C/Sites/blog2/app/views/articles/new.html.erb",
-		"/C/Sites/blog2/app/views/comments/form.html.erb",
-		"/C/Sites/blog2/app/controllers/comments_controller.rb",
-		"/C/Sites/blog2/app/views/comments/show.html.erb",
+		"/C/Sites/SmartKitchen/config/database.yml",
+		"/C/Program Files/PostgreSQL/9.5/data/pg_hba.conf",
+		"/C/Sites/SmartKitchen/Gemfile",
+		"/C/Sites/SmartKitchen/config/routes.rb",
+		"/C/Sites/SmartKitchen/app/controllers/cabinet_controller.rb",
+		"/C/Sites/SmartKitchen/app/views/cabinet/index.html.erb",
+		"/C/Sites/blog2/config/database.yml",
+		"/C/Sites/blog2/Gemfile",
+		"/C/Sites/blog2/config/routes.rb",
 		"/C/Sites/blog2/app/controllers/welcome_controller.rb",
+		"/C/Sites/blog2/app/views/welcome/home.html.erb",
+		"/C/Sites/blog2/app/views/welcome/index.html.erb",
+		"/C/Sites/blog2/app/controllers/articles_controller.rb",
+		"/C/Sites/SmartFridge/app/views/welcome/index.html.erb",
+		"/C/Sites/SmartFridge/Gemfile",
+		"/C/Sites/SmartFridge/config/routes.rb",
+		"/C/Sites/SmartFridge/README.rdoc",
+		"/C/Sites/blog2/db/seeds.rb",
+		"/C/Sites/SmartFridge/db/seeds.rb",
+		"/C/Sites/blog/app/views/welcome/index.html.erb",
+		"/C/Sites/blog/app/views/articles/new.html.erb",
+		"/C/Sites/SmartFridge/app/controllers/welcome_controller.rb",
+		"/C/Sites/blog2/app/controllers/application_controller.rb",
+		"/C/Sites/blog2/README.rdoc",
+		"/C/Sites/blog2/app/assets/javascripts/application.js",
+		"/C/Sites/blog2/app/assets/stylesheets/application.css",
 		"/C/Sites/blog2/app/views/layouts/application.html.erb",
+		"/C/Sites/SmartFridge/app/views/layouts/application.html.erb",
+		"/C/RailsInstaller/Ruby2.2.0/bin/bundle",
+		"/C/Sites/SmartFridge/app/controllers/application_controller.rb",
+		"/C/Sites/blog2/app/views/articles/new.html.erb",
+		"/C/Sites/blog2/app/views/articles/index.html.erb",
+		"/C/Sites/blog2/app/views/articles/show.html.erb",
+		"/C/Sites/blog2/app/views/articles/_form.html.erb",
+		"/C/Sites/blog2/app/views/comments/_form.html.erb",
+		"/C/Sites/blog2/app/views/comments/_comment.html.erb",
+		"/C/Sites/blog2/app/models/article.rb",
+		"/C/Sites/blog2/app/models/comment.rb",
+		"/C/Sites/blog2/app/controllers/comments_controller.rb",
+		"/C/Sites/blog2/app/views/articles/edit.html.erb",
+		"/C/Sites/sample_app_rails_4-master/Gemfile",
+		"/C/Sites/blog2/app/views/comments/form.html.erb",
+		"/C/Sites/blog2/app/views/comments/show.html.erb",
 		"/C/Sites/blog2/db/migrate/20160616160800_create_comments.rb",
 		"/C/Sites/blog2/db/migrate/20160614162626_create_articles.rb",
 		"/C/Sites/blog2/test/models/comment_test.rb",
-		"/C/Sites/blog2/app/models/article.rb",
 		"/C/Sites/blog2/db/schema.rb",
-		"/C/Sites/blog2/db/seeds.rb",
 		"/C/Users/Noah Bar-Shain/Desktop/sample_Rails_app/Rakefile",
 		"/C/Users/Noah Bar-Shain/Desktop/sample_Rails_app/db/seeds.rb",
 		"/C/Users/Noah Bar-Shain/Desktop/sample_Rails_app/config/environments/development.rb",
@@ -676,13 +602,8 @@
 		"/C/Users/Noah Bar-Shain/Desktop/sample_Rails_app/app/helpers/application_helper.rb",
 		"/C/Users/Noah Bar-Shain/Desktop/sample_Rails_app/app/controllers/messages_controller.rb",
 		"/C/Users/Noah Bar-Shain/Desktop/sample_Rails_app/app/views/messages/index.html.erb",
-		"/C/Sites/blog2/app/assets/stylesheets/application.css",
 		"/C/Sites/blog2/app/assets/stylesheets/articles.scss",
-		"/C/Sites/blog2/app/assets/javascripts/application.js",
-		"/C/Sites/blog2/app/controllers/application_controller.rb",
-		"/C/Sites/blog2/Gemfile",
 		"/C/Sites/blog2/Gemfile.lock",
-		"/C/RailsInstaller/Ruby2.2.0/bin/bundle",
 		"/C/Sites/blog2/bin/bundle",
 		"/C/Users/Noah Bar-Shain/Documents/ImageIQ/Tube_Formation_Bitbucket/Tube_Formation_v1.2.ipm",
 		"/C/Sites/blog2/app/assets/javascripts/welcome.coffee",
@@ -693,9 +614,7 @@
 		"/C/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jbuilder-2.5.0/gemfiles/rails_4_1.gemfile",
 		"/C/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jbuilder-2.5.0/gemfiles/rails_4_2.gemfile",
 		"/C/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jbuilder-2.5.0/gemfiles/rails_5_0.gemfile",
-		"/C/Sites/blog2/config/routes.rb",
 		"/C/Sites/blog/config/routes.rb",
-		"/C/Sites/blog/app/views/welcome/index.html.erb",
 		"/C/Sites/blog/app/views/layouts/application.html.erb",
 		"/C/Sites/blog/app/controllers/welcome_controller.rb",
 		"/C/IPWIN70/Documents and Settings/Massive_Allograft_Healing/Edge_filter_mask.env",
@@ -756,30 +675,7 @@
 		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples 2/jedi.pl",
 		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/prologMaze0.pl",
 		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/prologMaze3.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples 2/graph.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p1/maze.rb",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/publicMaze1.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/submit.rb",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/prologMaze2.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/publicRecursion3.out",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/publicRecursion3.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/publicMaze1.out",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/prologMaze1.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/publicRecursion1.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/publicRecursion1.out",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/publicRecursion2.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/p5/publicRecursion2.out",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples/p7_2.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples 2/exps.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples 2/02-math.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples 2/cfgs.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples/p7_1.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples/p9.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples/p8.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples/p7.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples/p6.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples/p5_1_father_mother.pl",
-		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples/p5.pl"
+		"/C/Users/Noah Bar-Shain/Box Sync/Classes Junior/CMSC330/Prolog Examples 2/graph.pl"
 	],
 	"find":
 	{
@@ -797,6 +693,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gem",
+			"exec",
 			"index",
 			"|}",
 			"? ",
@@ -936,355 +834,8 @@
 	"groups":
 	[
 		{
-			"selected": 10,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app/views/articles/new.html.erb",
-					"settings":
-					{
-						"buffer_size": 144,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								144,
-								144
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/views/welcome/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 129,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4,
-								17
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/views/articles/index.html.erb",
-					"settings":
-					{
-						"buffer_size": 617,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								427,
-								427
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/views/articles/show.html.erb",
-					"settings":
-					{
-						"buffer_size": 748,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								352,
-								352
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/views/articles/_form.html.erb",
-					"settings":
-					{
-						"buffer_size": 615,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								615,
-								615
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/views/comments/_form.html.erb",
-					"settings":
-					{
-						"buffer_size": 898,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								695,
-								695
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/views/comments/_comment.html.erb",
-					"settings":
-					{
-						"buffer_size": 347,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								40,
-								40
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "app/models/article.rb",
-					"settings":
-					{
-						"buffer_size": 173,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								75,
-								75
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "app/models/comment.rb",
-					"settings":
-					{
-						"buffer_size": 93,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								55,
-								55
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "app/controllers/articles_controller.rb",
-					"settings":
-					{
-						"buffer_size": 824,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								126,
-								131
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "app/controllers/comments_controller.rb",
-					"settings":
-					{
-						"buffer_size": 1129,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								236,
-								236
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "config/routes.rb",
-					"settings":
-					{
-						"buffer_size": 1800,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								468,
-								468
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "app/views/articles/edit.html.erb",
-					"settings":
-					{
-						"buffer_size": 155,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								96,
-								96
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
